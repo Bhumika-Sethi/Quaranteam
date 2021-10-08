@@ -1,0 +1,9 @@
+#sawo-container{
+  margin: auto;
+  margin-top: 12rem;
+}
+
+body{
+    background-image: linear-gradient( 50% rgb(217 131 8), 50% rgb(203 106 35));
+    background-color: rgb(251 229 185);
+}
